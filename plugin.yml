@@ -1,0 +1,7 @@
+name: VillagerJackets
+main: com.github.s15c.VillagerJackets
+version: 0.1
+description: Adds crafting of villager jackets to change villager types without having to breed.
+load: STARTUP
+author: s15c
+commands:
